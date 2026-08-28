@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm a Software Engineer @ GitHub! :octocat: and I enjoy learning new things everyday! 🤓  
-When I'm not online I like to learn in Cyber Security & Information Technology.
+When I'm not online I like Chilling .
 
 > "The more that you read, the more things you will know. The more that you learn, the more places you'll go"  
 > — Eng. Ahmed
