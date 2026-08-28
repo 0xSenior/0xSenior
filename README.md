@@ -65,13 +65,20 @@ When I'm not online I like to explore Advanced Cybersecurity, Penetration Testin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" alt="kalilinux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="gitbash" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/github/181717/ffffff" alt="github" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="wireshark" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/nmap/FFFFFF" alt="nmap" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/ghidra/EE3625" alt="ghidra" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/x64dbg/x64dbg/development/src/gui/Src/Icon/x64dbg.png" alt="x64dbg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Hex-Rays_IDA_Pro_logo.png" alt="idapro" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" alt="virtualbox" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vmware/607078" alt="vmware" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="insomnia" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="wireshark" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="premiere" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" width="40" height="40"/>
