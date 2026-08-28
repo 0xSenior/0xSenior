@@ -65,16 +65,15 @@ When I'm not online I like to explore Advanced Cybersecurity, Penetration Testin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" alt="kalilinux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="gitbash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="40" alt="wireshark"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white" height="40" alt="nmap"/>
-  <img src="https://img.shields.io/badge/Ghidra-EE3625?style=flat&logo=ghidra&logoColor=white" height="40" alt="ghidra"/>
-  <img src="https://img.shields.io/badge/x64dbg-000000?style=flat&logo=cplusplus&logoColor=white" height="40" alt="x64dbg"/>
-  <img src="https://img.shields.io/badge/IDA_Pro-D00000?style=flat&logo=target&logoColor=white" height="40" alt="idapro"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" height="40" alt="virtualbox"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" height="40" alt="vmware"/>
+  <img src="https://api.iconify.design/simple-icons:wireshark.svg?color=%231679A7" alt="wireshark" width="40" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:nmap.svg?color=%234682B4" alt="nmap" width="40" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:ghidra.svg?color=%23EE3625" alt="ghidra" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/x64dbg/x64dbg/development/src/gui/Src/Icon/x64dbg_256.png" alt="x64dbg" width="40" height="40"/>
+  <img src="https://api.iconify.design/fluent-emoji-flat:bullseye.svg" alt="idapro" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" alt="virtualbox" width="40" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:vmware.svg?color=%23607078" alt="vmware" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
