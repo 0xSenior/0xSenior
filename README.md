@@ -67,13 +67,9 @@ When I'm not online I like to explore Advanced Cybersecurity, Penetration Testin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wireshark.svg" alt="wireshark" width="40" height="40"/>
-  <img src="https://nmap.org/images/nmap-logo-64x64.png" alt="nmap" width="40" height="40"/>
-  <img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="ghidra" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/12028751?s=200&v=4" alt="x64dbg" width="40" height="40"/>
-  <img src="https://hex-rays.com/assets/images/logo.svg" alt="idapro" width="40" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:wireshark.svg?color=%231679A7" alt="wireshark" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/virtualbox.svg" alt="virtualbox" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vmware.svg" alt="vmware" width="40" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:vmware.svg?color=%23607078" alt="vmware" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
